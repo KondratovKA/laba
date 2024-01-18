@@ -1,0 +1,2 @@
+U:\My Documents\Учеба\1\MainP\obj\Debug\MainP.csproj.AssemblyReference.cache
+U:\My Documents\Учеба\1\MainP\obj\Debug\MainP.csproj.CoreCompileInputs.cache
